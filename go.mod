@@ -1,4 +1,4 @@
-module go-gin-clean-architecture
+module backend
 
 go 1.26.5
 
